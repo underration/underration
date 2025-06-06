@@ -40,7 +40,6 @@
 - 🔭 Building full-stack applications with **Next.js** and **Go**
 - 📱 Developing mobile apps with **Flutter**
 - ☁️ Exploring cloud solutions with **Google Cloud Platform**
-- 🎯 Contributing to open-source projects
 - 📚 Always learning new technologies and best practices
 
 ## 📊 GitHub Analytics
